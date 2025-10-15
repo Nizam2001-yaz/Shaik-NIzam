@@ -19,6 +19,13 @@ my name is 𝗦𝗛𝗔𝗜𝗞 𝗡𝗜𝗭𝗔𝗠𝗨𝗗𝗗𝗜𝗡 <br>im 
 ![Networking](https://img.shields.io/badge/Networking-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)  
 ![Routers](https://img.shields.io/badge/Routers-%23E8A317.svg?style=for-the-badge&logo=tp-link&logoColor=white)
 
+ <i>Dedicated,Determined,Enthusiasitic,Curiosity,Patience is what drives me to keep learning and advancing my skills and grow up to conquer my goals 🚀</i>
+       </td>
+  </tr>
+</table>
+</div>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nizam2001-yaz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nizam2001-yaz&theme=tokyonight&hide_border=false)<br/>
