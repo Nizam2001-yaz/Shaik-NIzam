@@ -1,5 +1,5 @@
 # 💫 About Me:
-my name is shaik nizamuddin <br>im interested in mostly cybersecurity and networking <br>completed my post graduation in MCA (AI & ML)<br>aspires to become red teamer, ethical hacker, pentester<br>
+my name is 𝗦𝗛𝗔𝗜𝗞 𝗡𝗜𝗭𝗔𝗠𝗨𝗗𝗗𝗜𝗡 <br>im interested in mostly cybersecurity and networking <br>completed my post graduation in MCA (AI & ML)<br>aspires to become red teamer, ethical hacker, pentester<br>
 
 
 ## 🌐 Socials:
